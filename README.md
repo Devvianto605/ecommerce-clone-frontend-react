@@ -15,8 +15,6 @@ Destop View (Large):
 
 Destop View (Medium):
 
-![alt text](./readme-img/l-1.png)
 ![alt text](./readme-img/l-2.png)
 ![alt text](./readme-img/l-3.png)
-![alt text](./readme-img/l-4.png)
-![alt text](./readme-img/l-5.png)
+![alt text](./readme-img/l-1.png)
