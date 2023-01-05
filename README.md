@@ -1,6 +1,6 @@
 # ecommerce-frontend-clone
-React responsive ecommerce frontend clone:
-(*Time limited exam not for comercial use*)
+React responsive ecommerce frontend clone
+(*Time limited exam not for comercial use*):
 
 Mobile View: 
 
