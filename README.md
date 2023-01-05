@@ -9,4 +9,8 @@ Mobile View:
 
 Destop View (Large):
 
+![alt text](./readme-img/xl-1.png)
+![alt text](./readme-img/xl-2.png)
+![alt text](./readme-img/xl-3.png)
+
 Destop View (Medium):
